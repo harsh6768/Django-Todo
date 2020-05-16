@@ -9,5 +9,13 @@
 # Django-Todo
 Simple Todo using Django and Bootstrap
 
+Clone Project 
+
+     git clone https://github.com/harsh6768/Django-Todo.git
+
 
 <img src="https://github.com/harsh6768/Django-Todo/blob/master/Screenshots/Screenshot%20from%202020-05-17%2001-58-44.png" alt="">
+
+
+Install Django and setup env for Django Projects
+
