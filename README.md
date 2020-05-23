@@ -20,3 +20,23 @@ Clone Project
 # Install Django and setup env for Django Projects
 
 Follow this link https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-18-04 to setup django and env for django projects
+
+
+Django Common commands:
+
+1. Create Django Project
+    
+       django-admin startproject test_django
+
+2. Run the Server 
+   
+       python manage.py runserver
+       
+3. Create Django App:
+   
+   It's a single module which will help you to seperate your code from other modules.
+   
+       python manage.py startapp todos
+ 
+     
+     
