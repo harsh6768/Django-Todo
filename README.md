@@ -21,6 +21,7 @@ Clone Project
 
 Follow this link https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-18-04 to setup django and env for django projects
 
+Refer to Django Official Site https://www.djangoproject.com/ to get start from basics.
 
 Django Common commands:
 
